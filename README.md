@@ -1,0 +1,1 @@
+In this notebook I will show you the `imbalanced datasets handling` using **random under-sampling**, **over-sampling**, and **SMOTE** (Synthetic Minority Oversampling Technique)
